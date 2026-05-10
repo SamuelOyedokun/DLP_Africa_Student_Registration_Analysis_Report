@@ -80,15 +80,14 @@ The workbook contains the following sheets:
 
 | Sheet | Contents |
 |---|---|
-| Cover | Title page |
-| Executive Summary | One page written summary of findings |
 | Registration Report | Raw data of all 40 students |
+| Pivot Table | Course vs Gender cross analysis |
 | Course Count Analysis | Enrollment counts, percentages and rankings |
 | Gender Analysis | Male vs Female breakdown per course |
 | Age Analysis | Age distribution and age group summary |
 | Lookup Analysis | VLOOKUP, HLOOKUP and INDEX/MATCH systems |
-| Pivot Table | Course vs Gender cross analysis |
 | Dashboard | Full KPI dashboard with charts |
+| Executive Summary | One page written summary of findings |
 
 ---
 
