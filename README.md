@@ -40,8 +40,6 @@ Given a raw student registration dataset, the goal was to:
 | INDEX / MATCH | Student lookup by name (Excel 2013 compatible) |
 | Pivot Tables | Cross analysis of Course vs Gender |
 | Dashboard | Visual summary of all KPIs |
-| Data Validation | Dropdown lists for data integrity |
-| Conditional Formatting | Visual age pattern highlighting |
 | Charts | Bar, line and pie charts for storytelling |
 
 ---
@@ -53,7 +51,7 @@ Given a raw student registration dataset, the goal was to:
 - Gender split: **60% Male (24 students)** vs **40% Female (16 students)**
 - Average student age: **23.3 years** (range: 20 to 28)
 - Peak registration day: **5 May 2026** with 8 registrations
-- Largest age group: **20 to 22 years** representing 40% of students
+- Largest age group: **20 to 24 years** representing 68% of students
 
 ---
 
