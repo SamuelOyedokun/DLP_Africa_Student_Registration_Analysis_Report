@@ -59,9 +59,8 @@ Given a raw student registration dataset, the goal was to:
 
 1. Open additional Data Analysis cohorts to meet demand
 2. Launch targeted female enrollment campaigns to close the gender gap
-3. Time new intake marketing around May for peak registration periods
-4. Invest in promoting UI/UX Design and Web Development which are 
-currently the least enrolled courses
+3. The peak registration period on 5th of May 2026 offers a clear opportunity for timed marketing campaigns.
+4. Invest in promoting courses with low registration rate such as UI/UX Design.
 
 ---
 
